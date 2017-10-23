@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/production/res/values/credentials.xml
+/app/src/staging/res/values/credentials.xml
